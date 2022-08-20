@@ -1,6 +1,6 @@
 $base-color: rgb(48, 48, 48);
 $second-color: rgba(167, 167, 167, 0.6);
-$padding: 20px;
+$padding: 30px;
 
 @mixin wrapper {
   width: 800px;
@@ -45,7 +45,7 @@ $padding: 20px;
 }
 .left-section, .right-section {
   padding: $padding;
-  padding-bottom: 50px;
+  padding-bottom: 70px;
 }
 .right-section {
   background-color: $second-color;
