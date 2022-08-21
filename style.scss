@@ -81,6 +81,6 @@ p {
   margin-top: 10px;
  }
  a {
-  color: $base-color;
-  text-decoration: none;
+  color: $base-color !important;
+  text-decoration: none !important;
  }
