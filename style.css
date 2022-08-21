@@ -88,4 +88,9 @@ ul {
 p {
   text-indent: 20px; /* Отступ первой строки в пикселах */
   margin-top: 10px;
+}
+
+a {
+  color: rgb(48, 48, 48);
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
